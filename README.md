@@ -2,7 +2,7 @@
   
 ---
 In this repository you can find the jupyter notebooks I did for my university class about quantum computing.  
-This class was a formal introduction to quantum computing. During the practical classes we learned how to use Jupyter notebook and qiskit. I implemented some famous quantum algorithm (Simon algorithm, Grover search...) and I wrote a rapport / commentary, it's all in french though.
+This class was a formal introduction to quantum computing. During the practical classes we learned how to use Jupyter notebook, qiskit and we tested our code on actual quantum computer of IBM. I implemented some famous quantum algorithm (Simon algorithm, Grover search...) and I wrote a rapport / commentary, it's all in french though.
 
 Here is a preview of what you can find in this repo  
 
