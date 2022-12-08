@@ -15,7 +15,7 @@ The [Simon problem](https://en.wikipedia.org/wiki/Simon%27s_problem) is one of t
 
 <p align="center"> Quantum circuit </p> 
 
-![Quantum circuit of Simon Algorithm | 100](https://github.com/kilaposhi/IQ01_Kila/blob/main/images/Simon_circuit.png "Simon circuit")  
+![Quantum circuit of Simon Algorithm](https://github.com/kilaposhi/IQ01_Kila/blob/main/images/Simon_circuit.png "Simon circuit")  
 Result histogram          |     Verif result (counts)
 :-------------------------:|:-------------------------:
 ![Histogram of the measures](https://github.com/kilaposhi/IQ01_Kila/blob/main/images/Simon_histo.png "Simon circuit") |  ![Verifying the result](https://github.com/kilaposhi/IQ01_Kila/blob/main/images/verif_simon.png "Simon circuit") 
