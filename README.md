@@ -1,8 +1,17 @@
 # Quantum Computing classes : Practical ⚛ 
   
----
-In this repository you can find the jupyter notebooks I did for my university class about quantum computing.  
-This class was a formal introduction to quantum computing. During the practical classes we learned how to use Jupyter notebook, qiskit and we tested our code on actual quantum computer of IBM. I implemented some famous quantum algorithm (Simon algorithm, Grover search...) and I wrote a rapport / commentary, it's all in french though.
+In this repository you will find the jupyter notebooks I did for my university class about quantum computing.  
+This class was a formal introduction to quantum computing. During the practical classes we learned how to use `jupyter notebook`, `qiskit` and we tested our code on actual quantum computer of IBM. I implemented some famous quantum algorithm (Simon algorithm, Grover search...). 
+  
+>The code is in english but the explanations are in **french**.
+
+The algorithms detailled explanations are available at the [qiskit website](https://learn.qiskit.org).
+
+### Summary :
+
+> Github render `notebook` directly in the browser.
+- [The Deutsch-Josza and Simon problems]()
+- [Grover Search][Grover_search.ipynb]
 
 Here is a preview of what you can find in this repo  
 
@@ -19,3 +28,6 @@ The [Simon problem](https://en.wikipedia.org/wiki/Simon%27s_problem) is one of t
 Result histogram          |     Verif result (counts)
 :-------------------------:|:-------------------------:
 ![Histogram of the measures](https://github.com/kilaposhi/IQ01_Kila/blob/main/images/Simon_histo.png "Simon circuit") |  ![Verifying the result](https://github.com/kilaposhi/IQ01_Kila/blob/main/images/verif_simon.png "Simon circuit") 
+
+
+[def]: Gr
