@@ -10,8 +10,9 @@ The algorithms detailled explanations are available at the [qiskit website](http
 ### Summary :
 
 > Github render `notebook` directly in the browser.
-- [The Deutsch-Josza and Simon problems]()
-- [Grover Search][Grover_search.ipynb]
+- [Introduction to quantum gates and Bell states](Introduction_gates_BellStates.ipynb)
+- [The Deutsch-Josza and Simon problems](Deutsch-Josza_&_Simon.ipynb)
+- [Grover Search](Grover_search.ipynb)
 
 Here is a preview of what you can find in this repo  
 
